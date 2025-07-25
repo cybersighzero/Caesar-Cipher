@@ -34,6 +34,32 @@ Feedback or ideas? Drop an [issue](https://github.com/cybersighzero/Caesar-Ciphe
 
 ---
 
+## You’ll be prompted to enter:
+
+- Plaintext or Ciphertext
+- Whether to encrypt or decrypt
+- Shift key (number of characters to shift)
+- Direction of the shift (left or right)
+
+---
+
+## Files in This Repository:
+
+- caesar_cipher.py – The main Python script
+- README.md – This file!
+
+---
+
+## How to Use
+
+```bash
+# To run the Caesar Cipher
+python caesar_cipher.py
+
+``` 
+
+---
+
 ## Late-Night Note
 
 This 3AM, adrenaline-fueled decision to build a Caesar Cipher in Python was inspired by the THM room **["Cryptography Basics"](https://tryhackme.com/room/cryptographybasics)**, the first in the module **"Cryptography."**
