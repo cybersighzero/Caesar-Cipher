@@ -36,6 +36,6 @@ Feedback or ideas? Drop an [issue](https://github.com/cybersighzero/Caesar-Ciphe
 
 ## Late-Night Note
 
-This 3AM, adrenaline-fueled decision to build a Caesar Cipher in Python was inspired by the THM room **"Cryptography Basics"**, the first in the module **"Cryptography."** — (https://tryhackme.com/room/cryptographybasics)
+This 3AM, adrenaline-fueled decision to build a Caesar Cipher in Python was inspired by the THM room **["Cryptography Basics"](https://tryhackme.com/room/cryptographybasics)**, the first in the module **"Cryptography."**
 
 Sometimes, impulse + caffeine = cool code.
